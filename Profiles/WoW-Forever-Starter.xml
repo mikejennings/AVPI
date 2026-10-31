@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gavpi>
+  <Action_Sequence name="Action bar ability 1" type="Action_Sequence" comment="Action bar ability 1" random="False">
+    <Action type="KeyDown" value="D1" />
+    <Action type="Wait" value="60" />
+    <Action type="KeyUp" value="D1" />
+  </Action_Sequence>
+  <Action_Sequence name="Action bar ability 2" type="Action_Sequence" comment="Action bar ability 2" random="False">
+    <Action type="KeyDown" value="D2" />
+    <Action type="Wait" value="60" />
+    <Action type="KeyUp" value="D2" />
+  </Action_Sequence>
+  <Action_Sequence name="Action bar ability 3" type="Action_Sequence" comment="Action bar ability 3" random="False">
+    <Action type="KeyDown" value="D3" />
+    <Action type="Wait" value="60" />
+    <Action type="KeyUp" value="D3" />
+  </Action_Sequence>
+  <Action_Sequence name="Action bar ability 4" type="Action_Sequence" comment="Action bar ability 4" random="False">
+    <Action type="KeyDown" value="D4" />
+    <Action type="Wait" value="60" />
+    <Action type="KeyUp" value="D4" />
+  </Action_Sequence>
+  <Action_Sequence name="Action bar ability 5" type="Action_Sequence" comment="Action bar ability 5" random="False">
+    <Action type="KeyDown" value="D5" />
+    <Action type="Wait" value="60" />
+    <Action type="KeyUp" value="D5" />
+  </Action_Sequence>
+  <Action_Sequence name="Action bar ability 6" type="Action_Sequence" comment="Action bar ability 6" random="False">
+    <Action type="KeyDown" value="D6" />
+    <Action type="Wait" value="60" />
+    <Action type="KeyUp" value="D6" />
+  </Action_Sequence>
+  <Action_Sequence name="Target next enemy" type="Action_Sequence" comment="Target next enemy" random="False">
+    <Action type="KeyDown" value="Tab" />
+    <Action type="Wait" value="60" />
+    <Action type="KeyUp" value="Tab" />
+  </Action_Sequence>
+  <Action_Sequence name="Jump" type="Action_Sequence" comment="Jump" random="False">
+    <Action type="KeyDown" value="Space" />
+    <Action type="Wait" value="60" />
+    <Action type="KeyUp" value="Space" />
+  </Action_Sequence>
+  <Action_Sequence name="Toggle bags" type="Action_Sequence" comment="Toggle bags" random="False">
+    <Action type="KeyDown" value="B" />
+    <Action type="Wait" value="60" />
+    <Action type="KeyUp" value="B" />
+  </Action_Sequence>
+  <Action_Sequence name="Toggle world map" type="Action_Sequence" comment="Toggle world map" random="False">
+    <Action type="KeyDown" value="M" />
+    <Action type="Wait" value="60" />
+    <Action type="KeyUp" value="M" />
+  </Action_Sequence>
+  <Action_Sequence name="Toggle character panel" type="Action_Sequence" comment="Toggle character panel" random="False">
+    <Action type="KeyDown" value="C" />
+    <Action type="Wait" value="60" />
+    <Action type="KeyUp" value="C" />
+  </Action_Sequence>
+  <Action_Sequence name="Escape / close current panel" type="Action_Sequence" comment="Escape / close current panel" random="False">
+    <Action type="KeyDown" value="Escape" />
+    <Action type="Wait" value="60" />
+    <Action type="KeyUp" value="Escape" />
+  </Action_Sequence>
+  <Action_Sequence name="Mount action bar slot (assign F8 in game)" type="Action_Sequence" comment="Mount action bar slot (assign F8 in game)" random="False">
+    <Action type="KeyDown" value="F8" />
+    <Action type="Wait" value="60" />
+    <Action type="KeyUp" value="F8" />
+  </Action_Sequence>
+  <Trigger name="ability one" type="Phrase" value="ability one" comment="Action bar ability 1">
+    <Trigger_Event name="Action bar ability 1" type="Action_Sequence" value="" />
+  </Trigger>
+  <Trigger name="ability two" type="Phrase" value="ability two" comment="Action bar ability 2">
+    <Trigger_Event name="Action bar ability 2" type="Action_Sequence" value="" />
+  </Trigger>
+  <Trigger name="ability three" type="Phrase" value="ability three" comment="Action bar ability 3">
+    <Trigger_Event name="Action bar ability 3" type="Action_Sequence" value="" />
+  </Trigger>
+  <Trigger name="ability four" type="Phrase" value="ability four" comment="Action bar ability 4">
+    <Trigger_Event name="Action bar ability 4" type="Action_Sequence" value="" />
+  </Trigger>
+  <Trigger name="ability five" type="Phrase" value="ability five" comment="Action bar ability 5">
+    <Trigger_Event name="Action bar ability 5" type="Action_Sequence" value="" />
+  </Trigger>
+  <Trigger name="ability six" type="Phrase" value="ability six" comment="Action bar ability 6">
+    <Trigger_Event name="Action bar ability 6" type="Action_Sequence" value="" />
+  </Trigger>
+  <Trigger name="target" type="Phrase" value="target" comment="Target next enemy">
+    <Trigger_Event name="Target next enemy" type="Action_Sequence" value="" />
+  </Trigger>
+  <Trigger name="jump" type="Phrase" value="jump" comment="Jump">
+    <Trigger_Event name="Jump" type="Action_Sequence" value="" />
+  </Trigger>
+  <Trigger name="bags" type="Phrase" value="bags" comment="Toggle bags">
+    <Trigger_Event name="Toggle bags" type="Action_Sequence" value="" />
+  </Trigger>
+  <Trigger name="map" type="Phrase" value="map" comment="Toggle world map">
+    <Trigger_Event name="Toggle world map" type="Action_Sequence" value="" />
+  </Trigger>
+  <Trigger name="character" type="Phrase" value="character" comment="Toggle character panel">
+    <Trigger_Event name="Toggle character panel" type="Action_Sequence" value="" />
+  </Trigger>
+  <Trigger name="cancel" type="Phrase" value="cancel" comment="Escape / close current panel">
+    <Trigger_Event name="Escape / close current panel" type="Action_Sequence" value="" />
+  </Trigger>
+  <Trigger name="mount" type="Phrase" value="mount" comment="Mount action bar slot (assign F8 in game)">
+    <Trigger_Event name="Mount action bar slot (assign F8 in game)" type="Action_Sequence" value="" />
+  </Trigger>
+</gavpi>
