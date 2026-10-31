@@ -1,0 +1,10 @@
+{
+  "offline_checks": "passed",
+  "command_entries": 20,
+  "spoken_alternatives": 36,
+  "key_hold_seconds": 0.1,
+  "windows_import": "NOT TESTED",
+  "speech_recognition": "NOT TESTED",
+  "wow_forever_gameplay": "NOT TESTED",
+  "vap_sha256": "67923158b8253564c3b74ab2fc1939f91617d6a98c70f73a62dbb964d3cab9bd"
+}

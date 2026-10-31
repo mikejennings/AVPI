@@ -1,3 +1,9 @@
+## WoW: Forever rogue voice setup
+
+The new [VoiceAttack rogue setup](VoiceAttack/README.md) adapts SpecialEffect’s WoW controls for mouse-and-voice play. It includes a 20-command `.vap`, a printable reference, and Windows test steps. Windows import and gameplay validation are pending.
+
+The original GAVPI software and documentation continue below.
+
 ![GAVPI](https://raw.githubusercontent.com/baykovr/AVPI/master/img/gavpi-logo.png)
 
 ## Latest Release - [21.11.01](https://github.com/baykovr/AVPI/releases/tag/21.11.01)

@@ -1,0 +1,21 @@
+phrases,key,key_code,category,bind_to,origin
+sinister strike;strike;one,1,49,Rogue,Sinister Strike,Numbered ability approach from SpecialEffect; rogue label added
+eviscerate;finish;two,2,50,Rogue,Eviscerate,Numbered ability approach from SpecialEffect; rogue label added
+slice and dice;slice;three,3,51,Rogue,Slice and Dice,Numbered ability approach from SpecialEffect; rogue label added
+stealth;four,4,52,Rogue,Stealth,Numbered ability approach from SpecialEffect; rogue label added
+kick;five,5,53,Rogue,Kick,Numbered ability approach from SpecialEffect; rogue label added
+gouge;six,6,54,Rogue,Gouge,Numbered ability approach from SpecialEffect; rogue label added
+sprint;seven,7,55,Rogue,Sprint,Numbered ability approach from SpecialEffect; rogue label added
+evasion;eight,8,56,Rogue,Evasion,Numbered ability approach from SpecialEffect; rogue label added
+vanish;nine,9,57,Rogue,Vanish,Numbered ability approach from SpecialEffect; rogue label added
+sap;zero,0,48,Rogue,Sap,Numbered ability approach from SpecialEffect; rogue label added
+ambush;ten,Minus,189,Rogue,Ambush,SpecialEffect ten maps to minus; rogue label added
+backstab;eleven,Equals,187,Rogue,Backstab,SpecialEffect eleven maps to equals; rogue label added
+target,Tab,9,Navigation,Target next enemy,SpecialEffect target
+jump,Space,32,Navigation,Jump,SpecialEffect jump
+bags,B,66,Navigation,Toggle backpack,SpecialEffect bags
+map,M,77,Navigation,Toggle world map,SpecialEffect map
+character,C,67,Navigation,Toggle character panel,SpecialEffect character
+spellbook,P,80,Navigation,Toggle spellbook,SpecialEffect spellbook
+quest log,L,76,Navigation,Toggle quest log,SpecialEffect quest log
+escape;cancel,Escape,27,Navigation,Escape / close panel,SpecialEffect escape; cancel alias added

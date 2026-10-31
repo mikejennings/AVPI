@@ -1,3 +1,5 @@
+> For the current rogue setup using VoiceAttack, see [the VoiceAttack guide](../VoiceAttack/README.md). This page is the earlier GAVPI configuration.
+
 # WoW: Forever voice starter for Windows
 
 A first-session profile for playing with a mouse and voice. This is a configuration for the existing GAVPI application, not a new executable. It has not yet been tested in the Windows app or the WoW: Forever client.
